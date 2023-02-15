@@ -1,0 +1,6 @@
+WordList olşturulana dek bilgisayarınız güçlü değilse herhangi bir işlem yapmayın ve oluşturulmasını bekleyin.
+Eğer eski ve gücü çok iyi olmayan bir bilgisayara sahipseniz denemek için sadece başlangıç değerini 1 
+ve bitiş değerini 3 girmeniz yeterlidir.
+Herkese iyi kodlamalar.
+
+-Feyzullah TEMEL
